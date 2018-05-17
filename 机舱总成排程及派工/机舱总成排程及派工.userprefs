@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{88C4BB56-DB4E-4F80-BB05-EEFDF68CEF75}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="机舱总成排程及派工/Form1.cs">
+    <Files>
+      <File FileName="机舱总成排程及派工/Form1.cs" Line="13" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.机舱总成排程及派工 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

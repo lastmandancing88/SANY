@@ -1,0 +1,27 @@
+\\mac\home\documents\visual studio 2015\Projects\机舱总成排程及派工\机舱总成排程及派工\bin\Debug\机舱总成排程及派工.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\机舱总成排程及派工\机舱总成排程及派工\bin\Debug\机舱总成排程及派工.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\机舱总成排程及派工\机舱总成排程及派工\bin\Debug\机舱总成排程及派工.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\机舱总成排程及派工\机舱总成排程及派工\obj\Debug\机舱总成排程及派工.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\机舱总成排程及派工\机舱总成排程及派工\obj\Debug\机舱总成排程及派工.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\机舱总成排程及派工\机舱总成排程及派工\obj\Debug\机舱总成排程及派工.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\机舱总成排程及派工\机舱总成排程及派工\obj\Debug\机舱总成排程及派工.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\机舱总成排程及派工\机舱总成排程及派工\obj\Debug\机舱总成排程及派工.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\机舱总成排程及派工\机舱总成排程及派工\obj\Debug\机舱总成排程及派工.pdb
+V:\Document\Git\机舱总成排程及派工\机舱总成排程及派工\bin\Debug\机舱总成排程及派工.exe.config
+V:\Document\Git\机舱总成排程及派工\机舱总成排程及派工\obj\Debug\机舱总成排程及派工.exe
+V:\Document\Git\机舱总成排程及派工\机舱总成排程及派工\obj\Debug\机舱总成排程及派工.pdb
+V:\Document\Git\机舱总成排程及派工\机舱总成排程及派工\bin\Debug\机舱总成排程及派工.exe
+V:\Document\Git\机舱总成排程及派工\机舱总成排程及派工\bin\Debug\机舱总成排程及派工.pdb
+V:\Document\Git\机舱总成排程及派工\机舱总成排程及派工\obj\Debug\机舱总成排程及派工.csprojResolveAssemblyReference.cache
+V:\Document\Git\机舱总成排程及派工\机舱总成排程及派工\obj\Debug\机舱总成排程及派工.Form1.resources
+V:\Document\Git\机舱总成排程及派工\机舱总成排程及派工\obj\Debug\机舱总成排程及派工.Properties.Resources.resources
+V:\Document\Git\机舱总成排程及派工\机舱总成排程及派工\obj\Debug\机舱总成排程及派工.csproj.GenerateResource.Cache
+\\mac\Home\Documents\Visual Studio 2015\Projects\机舱总成排程及派工\机舱总成排程及派工\机舱总成排程及派工\bin\Debug\机舱总成排程及派工.exe.config
+\\mac\Home\Documents\Visual Studio 2015\Projects\机舱总成排程及派工\机舱总成排程及派工\机舱总成排程及派工\bin\Debug\机舱总成排程及派工.exe
+\\mac\Home\Documents\Visual Studio 2015\Projects\机舱总成排程及派工\机舱总成排程及派工\机舱总成排程及派工\bin\Debug\机舱总成排程及派工.pdb
+\\mac\Home\Documents\Visual Studio 2015\Projects\机舱总成排程及派工\机舱总成排程及派工\机舱总成排程及派工\obj\Debug\机舱总成排程及派工.csprojResolveAssemblyReference.cache
+\\mac\Home\Documents\Visual Studio 2015\Projects\机舱总成排程及派工\机舱总成排程及派工\机舱总成排程及派工\obj\Debug\机舱总成排程及派工.Form1.resources
+\\mac\Home\Documents\Visual Studio 2015\Projects\机舱总成排程及派工\机舱总成排程及派工\机舱总成排程及派工\obj\Debug\机舱总成排程及派工.Properties.Resources.resources
+\\mac\Home\Documents\Visual Studio 2015\Projects\机舱总成排程及派工\机舱总成排程及派工\机舱总成排程及派工\obj\Debug\机舱总成排程及派工.csproj.GenerateResource.Cache
+\\mac\Home\Documents\Visual Studio 2015\Projects\机舱总成排程及派工\机舱总成排程及派工\机舱总成排程及派工\obj\Debug\机舱总成排程及派工.exe
+\\mac\Home\Documents\Visual Studio 2015\Projects\机舱总成排程及派工\机舱总成排程及派工\机舱总成排程及派工\obj\Debug\机舱总成排程及派工.pdb
